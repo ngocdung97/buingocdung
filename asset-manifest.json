@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/buingocdung/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/buingocdung/static/js/main.9c515e65.chunk.js",
+    "main.js.map": "/buingocdung/static/js/main.9c515e65.chunk.js.map",
+    "runtime-main.js": "/buingocdung/static/js/runtime-main.8eddf3a0.js",
+    "runtime-main.js.map": "/buingocdung/static/js/runtime-main.8eddf3a0.js.map",
+    "static/js/2.eb48ee3b.chunk.js": "/buingocdung/static/js/2.eb48ee3b.chunk.js",
+    "static/js/2.eb48ee3b.chunk.js.map": "/buingocdung/static/js/2.eb48ee3b.chunk.js.map",
+    "static/js/3.3595b6e6.chunk.js": "/buingocdung/static/js/3.3595b6e6.chunk.js",
+    "static/js/3.3595b6e6.chunk.js.map": "/buingocdung/static/js/3.3595b6e6.chunk.js.map",
+    "index.html": "/buingocdung/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/buingocdung/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.eb48ee3b.chunk.js.LICENSE.txt": "/buingocdung/static/js/2.eb48ee3b.chunk.js.LICENSE.txt",
+    "static/media/buingocdung.c96c4e10.png": "/buingocdung/static/media/buingocdung.c96c4e10.png",
+    "static/media/cover_bg_3.c195c8c3.jpg": "/buingocdung/static/media/cover_bg_3.c195c8c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eddf3a0.js",
+    "static/js/2.eb48ee3b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9c515e65.chunk.js"
+  ]
+}
